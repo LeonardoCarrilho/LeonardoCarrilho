@@ -11,6 +11,7 @@ Construo interfaces claras, acessíveis e APIs bem documentadas.
 [![Portfólio](https://img.shields.io/badge/Portfólio-leonardocarrilho.github.io-c2410c?style=flat-square&logo=googlechrome&logoColor=white)](https://leonardocarrilho.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Carrilho-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-carrilho/)
 [![E-mail](https://img.shields.io/badge/E--mail-leofernandescarrilho%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leofernandescarrilho@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55_11_91648--5368-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511916485368)
 
 </div>
 
@@ -112,6 +113,6 @@ Hoje busco minha **primeira oportunidade como desenvolvedor júnior**, em um tim
 
 Estou aberto a vagas júnior, estágio e projetos freelance.
 
-[Portfólio](https://leonardocarrilho.github.io/) · [LinkedIn](https://www.linkedin.com/in/leonardo-fernandes-carrilho/) · [Currículo](https://leonardocarrilho.github.io/curriculo.pdf) · [E-mail](mailto:leofernandescarrilho@gmail.com)
+[Portfólio](https://leonardocarrilho.github.io/) · [LinkedIn](https://www.linkedin.com/in/leonardo-fernandes-carrilho/) · [WhatsApp](https://wa.me/5511916485368) · [Currículo](https://leonardocarrilho.github.io/curriculo.pdf) · [E-mail](mailto:leofernandescarrilho@gmail.com)
 
 </div>
