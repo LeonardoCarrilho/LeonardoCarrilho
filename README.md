@@ -10,7 +10,7 @@ Construo interfaces claras, acessíveis e APIs bem documentadas.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-leonardocarrilho.github.io-c2410c?style=flat-square&logo=googlechrome&logoColor=white)](https://leonardocarrilho.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Carrilho-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-carrilho/)
-[![E-mail](https://img.shields.io/badge/E-mail-leofernandescarrilho@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leofernandescarrilho@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-leofernandescarrilho%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leofernandescarrilho@gmail.com)
 
 </div>
 
