@@ -195,3 +195,7 @@ Estou aberto a vagas júnior, estágio e projetos freelance.
 [Portfólio](https://leonardocarrilho.github.io/) · [LinkedIn](https://www.linkedin.com/in/leonardo-fernandes-carrilho/) · [WhatsApp](https://wa.me/5511916485368) · [Currículo](https://leonardocarrilho.github.io/curriculo.pdf) · [E-mail](mailto:leofernandescarrilho@gmail.com)
 
 </div>
+
+## Contribuição e segurança
+
+Leia [AGENTS.md](AGENTS.md) antes de alterar o projeto. Toda tarefa exige issue e PR associado, com validação antes da publicação.
